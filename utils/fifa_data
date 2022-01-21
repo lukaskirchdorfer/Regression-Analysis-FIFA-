@@ -1,0 +1,301 @@
+name,age,overall_rating,height,weight,potential,preferred_foot,best_overall,best_postion,market_value,attacking
+C. Romero,23,82,185cm,79kg,87,Right,85,CB,€41.5M,292
+A. Tchouaméni,21,79,187cm,81kg,85,Right,81,CM,€28M,336
+Gavi,16,68,173cm,68kg,85,Right,72,CAM,€3M,274
+R. De Paul,27,82,180cm,70kg,83,Right,83,CM,€35M,350
+B. Brereton Díaz,22,71,188cm,75kg,79,Right,73,ST,€4.2M,332
+T. Hernández,23,84,184cm,81kg,90,Left,85,LB,€62.5M,370
+Yeremy Pino,18,73,172cm,60kg,84,Right,74,CAM,€6.5M,319
+K. Adeyemi,19,72,177cm,69kg,86,Left,75,CAM,€5.5M,334
+C. De Ketelaere,20,75,192cm,79kg,85,Left,78,CAM,€12.5M,368
+Trincão,21,76,183cm,77kg,85,Left,78,CAM,€17M,339
+N. Madueke,19,77,182cm,70kg,88,Left,78,CAM,€23M,317
+K. Benzema,33,89,185cm,81kg,89,Right,89,CF,€66M,426
+C. Gauseth,37,61,189cm,87kg,61,Right,61,CM,€100K,275
+F. Chiesa,23,83,175cm,70kg,91,Right,85,CAM,€80.5M,360
+J. Bellingham,18,79,186cm,75kg,89,Right,81,CM,€37M,331
+Pedri,18,81,174cm,61kg,91,Right,83,CAM,€54M,316
+A. Elis,25,75,180cm,73kg,78,Right,77,ST,€7.5M,334
+Raphinha,24,82,176cm,68kg,87,Left,83,LM,€46M,345
+L. Messi,34,93,170cm,72kg,93,Left,93,RW,€78M,429
+F. Wirtz,18,78,176cm,70kg,89,Right,80,CAM,€29.5M,325
+G. Raspadori,21,74,172cm,69kg,88,Right,76,ST,€10.5M,330
+Eric García,20,77,182cm,76kg,86,Right,79,CB,€21.5M,275
+M. Lacroix,21,79,190cm,88kg,86,Right,81,CB,€33M,239
+R. Gravenberch,19,78,190cm,79kg,90,Right,81,CAM,€33M,354
+E. Martínez,28,84,195cm,88kg,85,Right,84,GK,€33.5M,127
+J. Gvardiol,19,75,185cm,80kg,87,Left,77,CB,€12.5M,299
+E. Haaland,20,88,194cm,94kg,93,Left,90,ST,€137.5M,375
+Antony,21,79,174cm,63kg,88,Left,80,CAM,€39.5M,330
+K. Mbappé,22,91,182cm,73kg,95,Right,92,ST,€194M,411
+R. Cherki,17,73,176cm,71kg,88,Left,74,CAM,€7M,288
+J. Musiala,18,76,180cm,68kg,88,Right,78,CAM,€17.5M,321
+A. Hložek,18,76,188cm,86kg,87,Right,78,ST,€16M,360
+Ansu Fati,18,76,178cm,66kg,90,Right,77,LW,€17.5M,338
+J. Koundé,22,83,181cm,75kg,89,Right,84,CB,€53M,283
+J. Timber,20,75,179cm,77kg,86,Right,77,CB,€11.5M,277
+Ferran Torres,21,82,184cm,77kg,90,Right,84,CAM,€68.5M,385
+N. Lang,22,78,179cm,69kg,85,Right,80,CAM,€28.5M,348
+R. Araujo,22,78,192cm,91kg,86,Right,80,CB,€29.5M,250
+Marcos Llorente,26,86,184cm,74kg,89,Right,87,CAM,€88M,372
+A. Isak,21,82,192cm,77kg,86,Right,84,ST,€45M,383
+D. Scarlett,17,63,179cm,73kg,86,Right,65,ST,€1.5M,281
+D. Vlahović,21,78,190cm,75kg,85,Left,80,ST,€29M,344
+Oyarzabal,24,85,181cm,79kg,89,Left,85,LW,€77.5M,383
+N. Molina,23,73,175cm,70kg,81,Right,73,RWB,€6.5M,329
+A. Saint-Maximin,24,79,173cm,67kg,84,Right,80,CAM,€26.5M,321
+F. Kessié,24,84,183cm,88kg,86,Right,85,CDM,€49.5M,344
+J. Doku,19,77,171cm,60kg,88,Right,79,CAM,€23M,298
+E. Camavinga,18,78,182cm,68kg,89,Left,81,CM,€29.5M,336
+M. Greenwood,19,78,181cm,70kg,89,Left,79,CAM,€30.5M,358
+H. Elliott,18,73,170cm,64kg,87,Left,75,CAM,€7M,297
+Cristiano Ronaldo,36,91,187cm,83kg,91,Right,91,ST,€45M,438
+P. Foden,21,84,171cm,69kg,92,Left,87,CAM,€94.5M,344
+D. Rensch,18,73,179cm,68kg,85,Right,73,RB,€7M,298
+B. Šeško,18,68,193cm,77kg,86,Right,70,ST,€3.1M,325
+G. Reyna,18,77,185cm,79kg,87,Right,79,CAM,€22M,336
+J. Álvarez,21,75,170cm,71kg,85,Right,76,CAM,€12.5M,354
+D. Núñez,22,76,187cm,81kg,85,Right,78,ST,€17M,356
+A. Bastoni,22,80,190cm,75kg,89,Left,82,CB,€44.5M,281
+S. Dest,20,76,175cm,62kg,85,Right,79,RM,€15.5M,310
+S. Tonali,21,77,181cm,79kg,86,Right,78,CM,€22.5M,345
+X. Simons,18,66,168cm,58kg,83,Right,69,CAM,€2.2M,274
+Nuno Mendes,19,78,176cm,70kg,88,Left,78,LWB,€29M,311
+J. David,21,78,177cm,77kg,86,Right,80,ST,€32M,368
+Pau Torres,24,82,191cm,80kg,89,Left,84,CB,€56.5M,289
+L. Díaz,24,80,180cm,73kg,86,Right,81,RM,€33.5M,340
+Kayky,18,66,173cm,67kg,87,Left,68,LM,€2.7M,269
+Neymar Jr,29,91,175cm,68kg,91,Right,91,LW,€129M,403
+M. Vandevoordt,19,71,190cm,79kg,87,Right,71,GK,€4.3M,51
+N. Barella,24,84,172cm,68kg,89,Right,87,CM,€63.5M,352
+F. Carvalho,18,67,178cm,63kg,86,Right,69,CAM,€2.6M,272
+D. Kulusevski,21,81,186cm,75kg,89,Left,83,LM,€58M,363
+A. Davies,20,82,183cm,75kg,89,Left,83,LB,€57M,345
+C. Tzolis,19,74,179cm,73kg,87,Right,75,RM,€10M,351
+D. Upamecano,22,82,186cm,90kg,90,Right,84,CB,€64M,272
+Y. Demir,18,72,173cm,65kg,85,Left,72,RW,€5.5M,299
+F. de Jong,24,87,180cm,74kg,92,Right,89,CM,€119.5M,383
+L. Martínez,23,85,174cm,72kg,89,Right,87,ST,€78M,394
+Gonçalo Inácio,19,76,186cm,77kg,86,Left,78,CB,€15M,232
+M. Damsgaard,20,77,180cm,71kg,87,Right,79,CAM,€23M,307
+T. Nianzou,19,71,187cm,83kg,85,Right,73,CB,€4.2M,247
+D. Zakaria,24,80,191cm,81kg,86,Right,82,CB,€30.5M,314
+T. Almada,20,74,171cm,62kg,86,Right,76,CAM,€10M,318
+B. Saka,19,80,178cm,65kg,88,Left,81,LM,€45.5M,335
+A. Kramarić,30,83,177cm,73kg,83,Right,83,ST,€35.5M,398
+A. Bella Kotchap,19,71,190cm,87kg,85,Right,73,CB,€4.2M,208
+N. Mazraoui,23,80,183cm,62kg,85,Right,80,RB,€29.5M,339
+João Félix,21,83,181cm,72kg,91,Right,84,CAM,€82M,382
+D. van de Beek,24,81,184cm,74kg,86,Right,83,CM,€38.5M,375
+A. Hakimi,22,85,181cm,73kg,88,Right,85,RB,€69.5M,368
+E. Tapsoba,22,81,194cm,85kg,88,Right,83,CB,€48.5M,289
+A. Danjuma,24,76,178cm,74kg,80,Right,77,RM,€11M,316
+Álex Balde,17,67,175cm,69kg,83,Left,67,LB,€2.4M,257
+Vinícius Jr.,20,80,176cm,73kg,90,Right,82,RM,€46.5M,332
+Pedro Gonçalves,23,81,173cm,65kg,88,Right,84,CAM,€51.5M,361
+L. Netz,18,69,180cm,83kg,85,Left,69,LB,€3.4M,264
+O. Popescu,18,70,180cm,66kg,85,Right,72,RM,€3.7M,285
+Lucas Paquetá,23,81,180cm,72kg,85,Left,83,CAM,€37M,365
+D. Rice,22,82,185cm,80kg,87,Right,83,CDM,€43M,285
+H. Son,28,89,183cm,78kg,89,Right,89,LM,€104M,401
+L. Stergiou,19,67,180cm,75kg,86,Right,69,CB,€2.5M,212
+L. Delap,18,64,186cm,72kg,85,Right,66,ST,€1.9M,287
+J. Sancho,21,87,180cm,76kg,91,Right,88,CAM,€116.5M,373
+I. Moriba,18,73,185cm,73kg,85,Right,75,CAM,€7M,297
+R. Lewandowski,32,92,185cm,81kg,92,Right,92,ST,€119.5M,430
+Adama Traoré,25,78,178cm,72kg,81,Right,80,RM,€18.5M,307
+J. Bogle,20,74,178cm,69kg,85,Right,74,RWB,€9M,284
+O. Dembélé,24,83,178cm,67kg,88,Left,85,LM,€55M,353
+N. Rovella,19,70,179cm,70kg,87,Right,72,CM,€4.1M,249
+D. Szoboszlai,20,77,186cm,74kg,87,Right,79,CAM,€23M,366
+T. Tomiyasu,22,75,188cm,84kg,85,Right,77,CB,€12M,261
+K. Kozłowski,17,68,178cm,68kg,85,Right,70,CAM,€3M,285
+K. Phillips,25,81,178cm,72kg,85,Right,82,CDM,€32.5M,332
+V. Osimhen,22,80,185cm,78kg,87,Right,82,ST,€43M,371
+C. Jones,20,73,185cm,75kg,85,Right,75,CAM,€7.5M,306
+P. Pogba,28,87,191cm,84kg,87,Right,87,CM,€79.5M,398
+K. Havertz,22,84,188cm,82kg,92,Left,86,CAM,€94.5M,395
+P. De la Vega,20,74,177cm,71kg,86,Right,76,RM,€10M,348
+M. Aarons,21,75,178cm,69kg,83,Right,76,RWB,€12M,274
+B. Godfrey,23,77,183cm,79kg,85,Right,79,CB,€22M,275
+T. Kubo,20,75,173cm,67kg,88,Left,76,CAM,€13.5M,300
+Brahim,21,78,171cm,59kg,86,Right,80,CAM,€31.5M,303
+A. Velasco,18,73,167cm,63kg,85,Right,75,CAM,€7M,314
+L. Hernández,25,83,184cm,79kg,86,Left,86,CB,€44.5M,333
+M. Diaby,21,81,170cm,68kg,88,Left,82,LM,€52.5M,317
+T. Lamptey,20,74,163cm,62kg,84,Right,74,RWB,€9M,282
+Éder Militão,23,82,186cm,78kg,89,Right,84,CB,€56.5M,312
+Renato Sanches,23,80,176cm,70kg,86,Right,83,CAM,€33M,349
+N. Mukiele,23,81,187cm,84kg,85,Right,83,CB,€34.5M,300
+T. Alexander-Arnold,22,87,180cm,69kg,92,Right,87,RB,€114M,369
+M. Depay,27,85,176cm,78kg,86,Right,85,CF,€63M,387
+M. Mount,22,83,178cm,70kg,89,Right,86,CAM,€58.5M,381
+Pedro Porro,21,80,176cm,71kg,87,Right,80,RWB,€40.5M,335
+J. Kimmich,26,89,177cm,75kg,90,Right,89,CDM,€108M,387
+B. Gilmour,20,72,170cm,66kg,86,Right,74,CM,€5.5M,299
+R. James,21,81,178cm,87kg,86,Right,81,RWB,€37M,328
+D. Malen,22,80,179cm,78kg,85,Right,82,ST,€33M,371
+Riqui Puig,21,76,169cm,56kg,85,Right,78,CAM,€17M,310
+Talles Magno,19,67,186cm,70kg,85,Right,68,RM,€2.6M,259
+R. Sessegnon,21,75,178cm,71kg,84,Left,77,LM,€12M,328
+Gonçalo Ramos,20,72,184cm,79kg,86,Right,75,ST,€5.5M,341
+M. Rashford,23,85,186cm,70kg,89,Right,86,CAM,€77.5M,384
+C. Palmer,19,64,189cm,74kg,84,Left,65,CAM,€1.6M,270
+M. de Ligt,21,85,189cm,89kg,90,Right,87,CB,€75M,307
+Gabriel Martinelli,20,76,179cm,75kg,88,Right,77,RM,€18M,349
+W. Fofana,20,78,190cm,76kg,86,Right,80,CB,€29M,251
+I. Sarr,23,78,185cm,76kg,86,Right,78,RW,€31M,332
+Gerard Moreno,29,86,180cm,77kg,86,Left,86,ST,€68M,410
+J. Tanganga,22,74,180cm,73kg,84,Right,77,CB,€9M,270
+Fábio Silva,18,70,185cm,75kg,85,Right,72,ST,€3.7M,293
+P. Dybala,27,87,177cm,75kg,88,Left,89,CAM,€93M,401
+M. Ødegaard,22,82,178cm,68kg,88,Left,84,CAM,€49M,365
+I. Hagi,22,74,182cm,72kg,82,Right,77,CAM,€9.5M,342
+J. Grealish,25,84,180cm,81kg,85,Right,85,CAM,€50.5M,351
+M. Locatelli,23,82,185cm,75kg,87,Right,84,CM,€42M,356
+H. Aouar,23,81,175cm,70kg,86,Right,83,CAM,€39M,354
+M. Maignan,25,84,191cm,89kg,89,Right,84,GK,€49.5M,121
+R. Baku,23,80,176cm,75kg,85,Right,81,RM,€32M,339
+A. Vranckx,18,67,183cm,78kg,85,Right,69,CM,€2.6M,293
+R. Aït Nouri,20,73,179cm,70kg,84,Left,73,LWB,€6.5M,280
+Y. En-Nesyri,24,82,188cm,78kg,86,Left,84,ST,€44M,366
+H. Lozano,25,81,175cm,70kg,82,Right,81,RW,€31M,360
+Bryan Gil,20,76,175cm,65kg,86,Left,77,CAM,€16.5M,320
+F. Tomori,23,79,185cm,79kg,85,Right,81,CB,€25M,268
+B. Brobbey,19,73,180cm,78kg,85,Right,75,ST,€7.5M,306
+F. Valverde,22,83,182cm,78kg,89,Right,84,CM,€58M,349
+C. Nkunku,23,81,179cm,72kg,86,Right,83,CAM,€39M,356
+Carlos Soler,24,81,180cm,76kg,88,Right,83,CAM,€51.5M,362
+M. Boadu,20,76,183cm,67kg,85,Right,78,ST,€16.5M,331
+Emerson,22,79,181cm,79kg,84,Right,79,RB,€25M,325
+M. Kean,21,79,182cm,72kg,87,Right,81,ST,€39.5M,345
+L. Martínez,23,79,178cm,77kg,85,Left,81,CDM,€25M,325
+Coutinho,29,82,172cm,68kg,82,Right,82,CAM,€30M,359
+O. Skipp,20,75,178cm,70kg,85,Right,76,CDM,€11.5M,256
+I. Meslier,21,77,196cm,74kg,85,Left,77,GK,€20.5M,93
+Álex Centelles,21,75,185cm,73kg,85,Left,75,LB,€12M,309
+D. Raum,23,73,180cm,75kg,80,Left,74,LB,€6M,311
+N. González,23,77,180cm,72kg,83,Left,79,ST,€17M,362
+Diogo Costa,21,73,187cm,81kg,85,Right,73,GK,€6.5M,66
+Rafael Leão,22,77,188cm,81kg,82,Right,78,RM,€16M,339
+A. Oxlade-Chamberlain,27,79,175cm,70kg,79,Right,80,CAM,€18.5M,327
+E. Smith Rowe,20,76,182cm,64kg,86,Right,78,CAM,€16.5M,303
+C. Hudson-Odoi,20,77,178cm,79kg,87,Right,78,CAM,€23M,334
+J. Willock,21,75,186cm,76kg,83,Right,77,CAM,€12.5M,342
+L. Jović,23,79,182cm,85kg,84,Right,81,ST,€27M,383
+B. White,23,76,185cm,77kg,85,Right,78,CB,€15.5M,241
+A. Griezmann,30,85,176cm,73kg,85,Left,86,CAM,€53M,420
+K. Sulemana,19,72,174cm,69kg,84,Right,72,LW,€5.5M,293
+L. Goretzka,26,87,189cm,82kg,88,Right,87,CM,€93M,398
+G. Lo Celso,25,81,177cm,68kg,85,Left,83,CAM,€35.5M,367
+Bruno Fernandes,26,88,179cm,69kg,89,Right,88,CAM,€107.5M,412
+C. Gakpo,22,79,189cm,76kg,85,Right,80,RM,€28M,364
+N. Zaniolo,21,78,190cm,79kg,87,Left,80,CAM,€31.5M,337
+T. Werner,25,84,180cm,76kg,87,Right,86,ST,€56.5M,389
+Rúben Dias,24,87,187cm,82kg,91,Right,89,CB,€102.5M,283
+M. Caqueret,21,78,174cm,63kg,86,Right,80,CM,€30M,281
+L. Suárez,34,88,182cm,83kg,88,Right,88,ST,€44.5M,430
+Rodrygo,20,79,174cm,64kg,88,Right,80,CAM,€38.5M,354
+H. Kane,27,90,188cm,89kg,90,Right,90,ST,€129.5M,433
+Cucurella,22,81,172cm,66kg,87,Left,82,LM,€41.5M,342
+Dani Olmo,23,82,179cm,72kg,87,Right,85,CAM,€46M,355
+T. Abraham,23,78,196cm,87kg,86,Right,80,ST,€31.5M,366
+A. Belotti,27,81,181cm,84kg,82,Right,82,ST,€30M,367
+G. Donnarumma,22,89,196cm,90kg,93,Right,89,GK,€119.5M,80
+J. Frimpong,20,74,171cm,63kg,84,Right,75,RM,€9M,280
+C. Pulisic,22,82,177cm,69kg,88,Right,83,RM,€49M,344
+M. Kudus,20,77,177cm,70kg,86,Left,79,CAM,€23M,322
+A. Diallo,18,68,173cm,72kg,85,Left,69,CAM,€3.1M,282
+Mingueza,22,75,184cm,77kg,83,Right,77,CB,€12M,276
+M. Safonov,22,72,192cm,82kg,82,Right,72,GK,€0,65
+M. Simakan,21,75,187cm,82kg,85,Right,77,CB,€12M,254
+A. Martial,25,81,184cm,76kg,84,Right,84,CAM,€34.5M,378
+L. Pellegrini,25,81,186cm,77kg,86,Right,83,CAM,€38M,372
+Matheus Cunha,22,79,183cm,76kg,86,Right,81,CAM,€35.5M,368
+Y. Bissouma,24,79,182cm,80kg,84,Right,80,CM,€24.5M,333
+S. Muñoz,18,67,179cm,67kg,83,Right,70,ST,€2.6M,304
+Nico González,19,68,188cm,86kg,83,Right,70,CM,€2.9M,308
+K. Tierney,24,80,178cm,70kg,86,Left,81,LWB,€31M,308
+G. Bale,31,82,185cm,82kg,82,Left,82,RM,€25M,417
+E. Hazard,30,85,175cm,74kg,85,Right,85,LW,€52M,383
+Richarlison,24,82,181cm,71kg,87,Right,85,ST,€46.5M,390
+D. Henderson,24,80,188cm,85kg,87,Right,80,GK,€36M,78
+A. Gouiri,21,78,180cm,72kg,85,Right,81,CAM,€29M,376
+S. Milinković-Savić,26,85,191cm,76kg,87,Right,86,CM,€66M,389
+B. Pavard,25,79,186cm,81kg,82,Right,80,RB,€21.5M,345
+F. Neuhaus,24,82,185cm,74kg,87,Right,84,CM,€46M,337
+Marcos Antonio,21,73,168cm,57kg,85,Right,77,CAM,€7.5M,299
+O. Wijndal,21,79,176cm,65kg,84,Left,80,LWB,€25M,325
+A. Schjelderup,17,65,172cm,66kg,84,Right,67,CAM,€1.8M,269
+W. Ndidi,24,85,183cm,74kg,88,Right,86,CB,€66.5M,321
+I. Konaté,22,78,194cm,95kg,86,Right,80,CB,€29.5M,247
+S. Botman,21,79,193cm,81kg,85,Left,81,CB,€25.5M,247
+T. Chalobah,21,73,191cm,84kg,80,Right,75,CB,€5.5M,270
+K. De Bruyne,30,91,181cm,70kg,91,Right,91,CM,€125.5M,407
+Z. Ibrahimović,39,84,195cm,95kg,84,Right,84,ST,€14.5M,409
+L. Spinazzola,28,83,186cm,75kg,83,Right,83,LWB,€33M,350
+João Pedro,19,71,182cm,70kg,84,Right,73,ST,€4.5M,326
+S. Agüero,33,87,173cm,70kg,87,Right,87,ST,€51M,406
+Y. Tielemans,24,84,176cm,72kg,87,Right,86,CM,€57M,390
+N. Süle,25,82,195cm,99kg,87,Right,84,CB,€40.5M,251
+D. Dumfries,25,82,188cm,80kg,84,Right,82,RB,€35M,333
+D. Dumfries,25,82,188cm,80kg,84,Right,82,RB,€35M,333
+C. Immobile,31,87,185cm,85kg,87,Right,87,ST,€67.5M,392
+L. Sané,25,84,183cm,80kg,87,Left,85,ST,€56M,402
+Palhinha,25,82,190cm,82kg,87,Right,85,CB,€41M,330
+R. Lukaku,28,88,191cm,94kg,88,Left,88,ST,€93.5M,409
+G. Montiel,24,78,175cm,70kg,84,Right,79,RWB,€21M,301
+S. Umtiti,27,80,182cm,75kg,80,Left,80,CB,€19.5M,331
+L. Suárez,23,77,185cm,74kg,86,Right,79,ST,€23.5M,356
+Silas,22,75,189cm,79kg,84,Right,77,ST,€12.5M,346
+Nico Melamed,20,74,173cm,68kg,86,Right,75,CAM,€10M,324
+L. Paredes,27,81,180cm,75kg,83,Right,83,CM,€28M,355
+S. Giménez,20,71,182cm,69kg,84,Left,73,ST,€4.5M,328
+Unai Simón,24,82,190cm,89kg,86,Right,82,GK,€34.5M,105
+Ibañez,22,77,185cm,73kg,85,Right,79,CB,€22M,226
+Iniesta,37,79,171cm,68kg,79,Right,81,CAM,€5.5M,365
+F. Pellistri,19,70,175cm,65kg,86,Right,71,RM,€4.1M,303
+Arthur,24,83,171cm,73kg,85,Right,85,CM,€47M,346
+M. Almirón,27,77,174cm,70kg,78,Left,79,LM,€12M,337
+J. St. Juste,24,76,184cm,74kg,80,Right,79,RB,€9.5M,315
+N. Kanté,30,90,168cm,70kg,90,Right,90,CDM,€100M,325
+M. Ihattaren,19,75,183cm,75kg,85,Left,77,CAM,€12M,338
+O. Kossounou,20,73,191cm,79kg,84,Right,75,CB,€6M,252
+T. Ndombele,24,82,179cm,76kg,87,Right,84,CAM,€46M,348
+Merino,25,83,189cm,83kg,87,Left,85,CM,€50M,379
+Gabriel Jesus,24,83,175cm,73kg,87,Right,85,ST,€52.5M,381
+M. Juwara,19,67,170cm,60kg,85,Left,71,CAM,€2.7M,292
+G. Wijnaldum,30,84,175cm,74kg,84,Right,84,CM,€40.5M,385
+C. Patino,17,62,182cm,75kg,85,Left,65,CDM,€1.2M,253
+Sergio Busquets,32,86,189cm,76kg,86,Right,86,CDM,€45M,328
+L. Klostermann,25,80,187cm,88kg,84,Right,83,RB,€26.5M,324
+R. Sterling,26,88,170cm,69kg,89,Right,88,LW,€107.5M,360
+P. Kimpembe,25,83,189cm,80kg,87,Left,86,CB,€45.5M,283
+R. Pepi,18,65,185cm,77kg,80,Right,67,ST,€1.7M,282
+T. Dolan,19,68,164cm,63kg,83,Right,70,RM,€2.9M,285
+M. Salah,29,89,175cm,71kg,89,Left,89,RW,€101M,394
+A. Lunin,22,74,192cm,87kg,85,Right,74,GK,€8M,72
+Blanco,20,71,176cm,68kg,83,Right,73,CM,€4.5M,262
+D. Zagadou,22,78,196cm,90kg,84,Left,80,CB,€20.5M,249
+L. Bailey,23,82,178cm,77kg,86,Left,84,LM,€43.5M,357
+F. Farías,18,72,173cm,73kg,84,Right,75,CAM,€5.5M,330
+M. Acuña,29,84,172cm,69kg,84,Left,84,LB,€37M,361
+K. Dembélé,18,63,167cm,59kg,82,Left,64,CAM,€1.2M,234
+Renan Lodi,23,81,173cm,70kg,86,Left,82,LWB,€36.5M,351
+Bruno Guimarães,23,79,182cm,78kg,84,Right,81,CM,€24.5M,336
+V. van Dijk,29,89,193cm,92kg,89,Right,89,CB,€86M,316
+N. De la Cruz,24,78,167cm,65kg,84,Right,81,CAM,€22M,365
+Reguilón,24,81,178cm,68kg,84,Left,81,LB,€32.5M,329
+D. Calvert-Lewin,24,81,187cm,71kg,85,Right,83,ST,€37.5M,381
+M. Thuram,23,79,192cm,88kg,85,Right,82,ST,€27.5M,379
+C. Clark,18,66,180cm,70kg,86,Right,68,CAM,€2.4M,278
+M. Olise,19,73,184cm,68kg,85,Left,75,CAM,€7M,295
+M. Bulat,19,69,178cm,68kg,84,Right,71,CAM,€3.3M,328
+M. Vušković,19,72,189cm,80kg,85,Right,74,CB,€5M,205
+T. Weah,21,74,183cm,66kg,81,Right,76,ST,€8.5M,344
+M. Salisu,22,76,191cm,85kg,84,Left,78,CB,€15.5M,238
+J. Gomez,24,82,188cm,77kg,88,Right,83,CB,€43.5M,271
+T. Doyle,19,62,172cm,72kg,81,Right,64,CAM,€1M,279
+Francisco Conceição,18,70,170cm,64kg,86,Left,71,CAM,€4M,284
+J. Tarkowski,28,81,188cm,81kg,82,Right,82,CB,€24.5M,296
+K. Laimer,24,81,180cm,72kg,85,Right,83,RWB,€33.5M,358
