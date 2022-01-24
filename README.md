@@ -9,3 +9,7 @@ Rough overview of the project:
 4) Hyperparameter Tuning (basic optimization for all models)
 5) Evaluation based on RMSE
 6) Bayesian Optimization for best model (XGBoost)
+7) Visualizations (cf. eda.ipynb)
+
+
+modeling.ipynb contains the most important part of the project (preprocessing, model building, evaluation and optimization)
